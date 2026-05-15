@@ -8,7 +8,7 @@ An AI-powered full-stack productivity and note management platform built using t
 https://ai-notes-workspace-psi.vercel.app/
 
 ### Backend API
-[ttps://ai-notes-workspace-vafu.onrender.com
+https://ai-notes-workspace-vafu.onrender.com
 ---
 
 # Features
